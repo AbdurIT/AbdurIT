@@ -6,7 +6,7 @@
 👑 Web Developer  🖊️ Love writing clean code  🎤 Enjoy sharing what I learn
 </p>
 
-### Coder by Default — Self-taught Developer
+<h2 align="center"> Coder by Default — Self-taught Developer </h2>
 
 Welcome to **Abdur IT** — my space where I build, break, fix, and share everything I learn.
 

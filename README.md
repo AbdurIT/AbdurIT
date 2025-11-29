@@ -12,7 +12,6 @@
  Welcome to <b>Abdur IT</b> — my space where I build, break, fix, and share everything I learn.
 </p>
 
----
 
 ## 👨‍💻 About Me  
 I'm a **self-taught developer** with no degree — just real skills, curiosity, and nonstop debugging energy.
@@ -26,7 +25,6 @@ I love:
 **My goal:**  
 Create useful things, solve real problems, and keep learning every day.
 
----
 
 ## 🔗 Connect With Me (Custom Icons)
 

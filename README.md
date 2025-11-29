@@ -1,10 +1,8 @@
-# 👋 Hi, I'm Abdur IT
 [<img src="https://raw.githubusercontent.com/AbdurIT/AbdurIT/main/banner.png" alt="Abdur IT Banner">](https://github.com/AbdurIT)
 
+# 👋 Hi, I'm Abdur IT
 <p>
-👑 Web Developer <br>
-🖊️ Love writing clean code <br>
-🎤 Enjoy sharing what I learn
+👑 Web Developer  🖊️ Love writing clean code  🎤 Enjoy sharing what I learn
 </p>
 
 ---

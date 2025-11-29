@@ -1,13 +1,10 @@
 [<img src="https://raw.githubusercontent.com/AbdurIT/AbdurIT/main/banner.png" alt="Abdur IT Banner">](https://github.com/AbdurIT)
 
-# 👋 Hi, I'm Abdur IT
+# 👋 Hi, I'm Abdur Rakib Talukder (রাকিব)
 <p>
 👑 Web Developer  🖊️ Love writing clean code  🎤 Enjoy sharing what I learn
 </p>
 
----
-
-# 👋 Hi, I'm Abdur Rakib Talukder (রাকিব)
 ### Coder by Default — Self-taught Developer
 
 Welcome to **Abdur IT** — my space where I build, break, fix, and share everything I learn.

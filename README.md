@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, Abdur IT here — aka Abdur Rakib Talukder (রাকিব)</h1>
 
 <p align="center">
-   Web Developer&nbsp;|Love writing code&nbsp;|Enjoy sharing what I learn
+   [Web Developer&nbsp;|Love writing code&nbsp;|Enjoy sharing what I learn]
 </p>
 
 <h2 align="center">Coder by Default — Self-taught Developer</h2>

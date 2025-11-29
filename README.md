@@ -1,6 +1,7 @@
 [<img src="https://raw.githubusercontent.com/AbdurIT/AbdurIT/main/banner.png" alt="Abdur IT Banner">](https://github.com/AbdurIT)
 
-# 👋 Hi, I'm Abdur Rakib Talukder (রাকিব)
+# 👋 Hi, Abdur IT here — aka Abdur Rakib Talukder (রাকিব)
+
 <p>
 👑 Web Developer  🖊️ Love writing clean code  🎤 Enjoy sharing what I learn
 </p>

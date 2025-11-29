@@ -22,7 +22,6 @@ I love:
 My goal is simple:  
 **Create useful things, solve real problems, and keep learning every day.**
 
----
 
 ## 🚀 What to Expect Here  
 - Coding guides  
@@ -33,7 +32,6 @@ My goal is simple:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurIT&layout=compact)
 
----
 
 ## ☕ Connect More  
 [<img src="https://raw.githubusercontent.com/AbdurIT/AbdurIT/main/icons/facebook.png" height="40">](https://facebook.com/YourLinkHere)

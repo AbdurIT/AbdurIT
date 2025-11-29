@@ -1,22 +1,58 @@
 ## Hi, I'm Ali Hossain 👋
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/bg.jpg?raw=true' alt='Ali Hossain'>](https://github.com/shovoalways/)
+[<img src='' alt='Abdur IT'>](https://github.com/AbdurIT/)
 <p>
-👑 I am Web Developer <br> 
-🖊️ Love to write code <br> 
-🎤 Like to share my knowledge </p> 
-
+👑 I am Web Developer <br>  🖊️ Love to write code <br> 🎤 Like to share my knowledge </p> 
 
 <p align="left"> <a href="https://twitter.com/shovoalways" target="blank"><img src="https://img.shields.io/twitter/follow/shovoalways?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
 
-## 🚀 About Me
-I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP. 
+# 👋 Hi, I'm Abdur Rakib Talukder (রাকিব)
+### Coder by Default — Self-taught Developer
 
-## 👨‍💻 Skills & Experiance: 
-✅ WordPress <br> 
-✅ JavaScript <br>
-✅ PHP <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-✅ Photoshop / Illustrator <br>
+Welcome to **Abdur IT** — my space where I build, break, fix, and share everything I learn.
+
+---
+
+## 👨‍💻 About Me  
+I'm a **self-taught developer** with no degree — just real skills, curiosity, and unstoppable debugging energy.
+
+I love:
+- Building things from scratch  
+- Breaking stuff to understand how it works  
+- Fixing and improving what I break  
+- Sharing my learning journey with others  
+
+My goal is simple:  
+**Create useful things, solve real problems, and keep learning every day.**
+
+---
+
+## 🚀 What to Expect  
+Here you’ll find:
+- Coding guides  
+- Tech experiments  
+- Tutorials  
+- Mini projects  
+- Ideas, improvements, and pure developer inspiration  
+
+---
+
+## 🛠️ Tech Stack  
+*(Add your languages, tools, and frameworks here if you want — I can generate icons too.)*
+
+---
+
+## 📫 Connect With Me  
+*(Add your social links: GitHub, YouTube, Facebook, etc.)*
+
+---
+
+If you want, I can also:  
+✅ Add badges  
+✅ Add social icons  
+✅ Add a banner  
+✅ Make it more minimal / more aesthetic  
+Just tell me!
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
 

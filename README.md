@@ -31,16 +31,3 @@ My goal is simple:
 - Ideas and inspiration  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurIT&layout=compact)
-
-
-## ☕ Connect More  
-[<img src="https://raw.githubusercontent.com/AbdurIT/AbdurIT/main/icons/facebook.png" height="40">](https://facebook.com/YourLinkHere)
-[<img src="https://raw.githubusercontent.com/AbdurIT/AbdurIT/main/icons/instagram.png" height="40">](https://instagram.com/YourLinkHere)
-[<img src="https://raw.githubusercontent.com/AbdurIT/AbdurIT/main/icons/twitter.png" height="40">](https://twitter.com/YourLinkHere)
-[<img src="https://raw.githubusercontent.com/AbdurIT/AbdurIT/main/icons/youtube.png" height="40">](https://youtube.com/@YourChannel)
-[<img src="https://raw.githubusercontent.com/AbdurIT/AbdurIT/main/icons/linkedin.png" height="40">](https://linkedin.com/in/YourLinkHere)
-
----
-
-## 📧 Business Inquiries  
-📥 **► your-email@example.com**

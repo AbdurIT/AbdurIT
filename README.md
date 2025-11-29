@@ -24,34 +24,3 @@ I love:
 
 **My goal:**  
 Create useful things, solve real problems, and keep learning every day.
-
-
-## 🔗 Connect With Me (Custom Icons)
-
-<p align="center">
-
-<!-- Facebook -->
-<a href="https://facebook.com/yourprofile">
-  <img src="https://raw.githubusercontent.com/AbdurIT/AbdurIT/main/icons/facebook.png" 
-       alt="Facebook" width="48" style="margin-right:10px;" />
-</a>
-
-<!-- GitHub -->
-<a href="https://github.com/AbdurIT">
-  <img src="https://raw.githubusercontent.com/AbdurIT/AbdurIT/main/icons/github.png" 
-       alt="GitHub" width="48" style="margin-right:10px;" />
-</a>
-
-<!-- YouTube -->
-<a href="https://youtube.com/@yourchannel">
-  <img src="https://raw.githubusercontent.com/AbdurIT/AbdurIT/main/icons/youtube.png" 
-       alt="YouTube" width="48" style="margin-right:10px;" />
-</a>
-
-<!-- Fiverr -->
-<a href="https://fiverr.com/yourprofile">
-  <img src="https://raw.githubusercontent.com/AbdurIT/AbdurIT/main/icons/fiverr.png" 
-       alt="Fiverr" width="48" style="margin-right:10px;" />
-</a>
-
-</p>

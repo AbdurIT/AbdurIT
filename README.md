@@ -9,7 +9,7 @@
 <h2 align="center"> Coder by Default — Self-taught Developer </h2>
 
 <p  align="center">
- Welcome to **Abdur IT** — my space where I build, break, fix, and share everything I learn.
+ Welcome to <b>Abdur IT</b> — my space where I build, break, fix, and share everything I learn.
 </p>
 
 ## 👨‍💻 About Me  

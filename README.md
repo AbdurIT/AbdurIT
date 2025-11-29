@@ -9,7 +9,6 @@
 
 Welcome to **Abdur IT** — my space where I build, break, fix, and share everything I learn.
 
----
 
 ## 👨‍💻 About Me  
 I'm a **self-taught developer** with no degree — just real skills, curiosity, and nonstop debugging energy.

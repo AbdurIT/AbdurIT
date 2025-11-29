@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, Abdur IT here — aka Abdur Rakib Talukder (রাকিব)</h1>
 
-<p>
+<p  align="center">
 👑 Web Developer  🖊️ Love writing clean code  🎤 Enjoy sharing what I learn
 </p>
 

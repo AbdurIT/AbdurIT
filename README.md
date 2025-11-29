@@ -29,5 +29,3 @@ My goal is simple:
 - Tutorials  
 - Mini projects  
 - Ideas and inspiration  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurIT&layout=compact)

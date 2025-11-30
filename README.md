@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/AbdurIT/AbdurIT/main/banner.png" width="100%" alt="Abdur IT Banner">](https://github.com/AbdurIT)
+[<img src="[https://raw.githubusercontent.com/AbdurIT/AbdurIT/main/banner.png](https://raw.githubusercontent.com/AbdurIT/AbdurIT/refs/heads/main/assets/banner.png)" width="100%" alt="Abdur IT Banner">](https://github.com/AbdurIT)
 
 I'm a **self-taught developer** with no degree — just real skills, curiosity, and nonstop debugging energy.
 
